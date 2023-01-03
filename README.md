@@ -14,8 +14,8 @@
 
 ### :man_technologist: About Me :
 
-##### :zap: Qualified actuary out of Sydney Australia 
-##### :zap: Actuarial data scientist who is passionate about automating and building things
+#### :zap: Qualified actuary out of Sydney Australia 
+#### :zap: Actuarial data scientist who is passionate about automating and building things
 ---
 
 ### :writing_hand: Media :
