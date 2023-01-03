@@ -14,11 +14,11 @@
 
 ### :man_technologist: About Me :
 
-#### :zap: Qualified actuary out of Sydney Australia 
-#### :zap: Actuarial data scientist who is passionate about automating and building things
+##### :zap: Qualified actuary out of Sydney Australia 
+##### :zap: Actuarial data scientist who is passionate about automating and building things
 ---
 
-### :writing_hand: Media :
+### :writing_hand: Blog and Social Media :
 
 <div id="badges">
   <a href="https://jin-cui.medium.com/">
