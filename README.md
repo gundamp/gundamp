@@ -1,6 +1,6 @@
 
 <pre>
-⚡⚡ This is Jin's GitHub page ⚡⚡
+⚡⚡ Welcome to my playground ⚡⚡
 
 ✨ The repos include codes as well as links to the full write-up of the project on Medium (where applicable)
 💬 Happy to receive any critical feedback on my projects
