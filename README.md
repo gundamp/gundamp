@@ -2,8 +2,10 @@
 <pre>
 ⚡⚡ Welcome to my playground ⚡⚡
 
-✨ The repos include codes as well as links to the full write-up of the project on Medium (refer to the README markdown)
+✨ The repos include codes as well as links to the full write-up of the project on Medium (linked in the README.md file in the respective repo)
 💬 Happy to receive any critical feedback on my projects
+🖼️ Scroll down to the bottom of the page for some of my favourite images generated using AnimeGAN
+
 </pre>
 
 <div id="header" align="center">
@@ -48,6 +50,14 @@
   :octocat:
   <img src="https://komarev.com/ghpvc/?username=gundamp&style=flat-square&color=blue" alt=""/>
 </div>
+
+---
+
+### :art: (Basketball related) images generated from the AnimeGAN project :
+
+ ![AnimeGan1](https://github.com/gundamp/AnimeGAN_application/blob/main/image/basketball_court_skate.jpg)
+ ![AnimeGan2](https://github.com/gundamp/AnimeGAN_application/blob/main/image/basketball_court_painting.jpg)
+
 
 <!--
 **gundamp/gundamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
