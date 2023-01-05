@@ -57,6 +57,7 @@
 
  ![AnimeGan1](https://github.com/gundamp/AnimeGAN_application/blob/main/image/basketball_court_skate.jpg)
  ![AnimeGan2](https://github.com/gundamp/AnimeGAN_application/blob/main/image/basketball_court_painting.jpg)
+:zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :robot: :robot: :robot: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap: :zap:
 
 
 <!--
