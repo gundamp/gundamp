@@ -2,7 +2,7 @@
 <pre>
 ⚡⚡ Welcome to my playground ⚡⚡
 
-✨ The repos include codes as well as links to the full write-up of the project on Medium (where applicable)
+✨ The repos include codes as well as links to the full write-up of the project on Medium (refer to the README markdown)
 💬 Happy to receive any critical feedback on my projects
 </pre>
 
