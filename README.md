@@ -17,7 +17,7 @@
 ### :man_technologist: About Me :
 
 ##### :zap: Qualified actuary out of Sydney Australia 
-##### :zap: Strong communicator who is able to demystify the art of actuarial data science
+##### :zap: Strong communicator who demystifies the art of actuarial data science
 ##### :zap: Believer of 'reasons over data'
 ---
 
